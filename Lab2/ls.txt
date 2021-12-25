@@ -1,22 +1,22 @@
 .:
 total 4
-drwxrw-rw-. 2 joffy joffy 22 Oct 21 12:03 dir
--rw-r-----. 1 root  joffy 5 Oct 21 12:00 file
--rw-------. 1 joffy joffy 0 Oct 21 12:21 file1
--rw-rw-rw-. 1 joffy joffy 0 Oct 21 12:12 file2
--rw-rw-rw-. 1 joffy joffy 0 Oct 21 12:22 ls.txt
+drwxrw-rw-. 2 joffy joffy 22 Dec 25 12:03 dir
+-rw-r-----. 1 root  joffy  5 Dec 25 12:00 file
+-rw-------. 1 joffy joffy  0 Dec 25 12:21 file1
+-rw-rw-rw-. 1 joffy joffy  0 Dec 25 12:12 file2
+-rw-rw-rw-. 1 joffy joffy  0 Dec 25 12:22 ls.txt
 
 ./dir:
 total 4
--rw-rw-r--. 1 joffy joffy 7 Oct 21 12:03 new_file
+-rw-rw-r--. 1 joffy joffy 7 Dec 25 12:03 new_file
 .:
 total 12
-drw-rw-rw-. 2 joffy joffy  22 Oct 21 12:03 dir
--rw-r-----. 1 root  joffy   5 Oct 21 12:00 file
--rw-------. 1 joffy joffy   0 Oct 21 12:21 file1
--rw-rw-rw-. 1 joffy joffy   0 Oct 21 12:12 file2
--rw-------. 1 joffy joffy 867 Oct 21 12:23 lab2_history.txt
--rw-rw-rw-. 1 joffy joffy 327 Oct 21 12:22 ls.txt
+drw-rw-rw-. 2 joffy joffy  22 Dec 25 12:03 dir
+-rw-r-----. 1 root  joffy   5 Dec 25 12:00 file
+-rw-------. 1 joffy joffy   0 Dec 25 12:21 file1
+-rw-rw-rw-. 1 joffy joffy   0 Dec 25 12:12 file2
+-rw-------. 1 joffy joffy 867 Dec 25 12:23 lab2_history.txt
+-rw-rw-rw-. 1 joffy joffy 327 Dec 25 12:22 ls.txt
 
 ./dir:
 total 0
